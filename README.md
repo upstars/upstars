@@ -3,8 +3,5 @@
 
 ### 你好，世界 👋
 
-- :orange_book: HTML/CSS/JavaScript
-- :hammer: Vue/React/Uniapp/Flutter/Weex
-- :ram: ElementUI/JQuery/ECharts/NaiveUIBootStrap
-- :meat_on_bone: Nginx
-- :sheep: Webpack/Vite
+- :orange_book
+- 🐑
